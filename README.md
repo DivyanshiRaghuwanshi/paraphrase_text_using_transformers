@@ -1,4 +1,4 @@
-## paraphrase_text_using_transformers
+## Paraphrasing Text Using Pegasus
 
 This project implements a Paraphrasing System that generates reworded versions of input sentences using state-of-the-art Transformer-based language models. It is designed to help rewrite content while retaining its original meaning — useful for content creation, academic writing, and NLP tasks.
 
